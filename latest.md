@@ -1,178 +1,116 @@
 # 艺人演出上新监控 — 最新报告
 
-- 最近更新: **2026-11-27 18:37**
-- 本轮扫到 16542 条, 新增 **22** 条
+- 最近更新: **2026-11-28 01:45**
+- 本轮扫到 16553 条, 新增 **11** 条
 
 ---
 
-## 本轮新发现 (22 条)
+## 本轮新发现 (11 条)
 
-### 蔡徐坤首次谈及上音乐节内幕
+### 今年新歌啥时候来 王一博啥时候跳舞
 
-- 艺人/关键词: **蔡徐坤**
+- 艺人/关键词: **王一博**
 - 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924009_m1d5ae192903301ig1c.html>
+- 链接: <https://k.sina.com.cn/article_6060658738_m1693e5032033019sgq.html>
 
-### 蔡徐坤新歌Home诉说温情，家是永远的港湾
-
-- 艺人/关键词: **蔡徐坤**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_2002676497_m775e6b1103301ws50.html>
-
-### 周杰伦2004年演唱会自弹自唱搁浅，高音轻松唱完松口气
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924061_m1d5ae195d03301qo77.html>
-
-### 周杰伦2004年演唱会七层楼高空降开场
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879924061_m1d5ae195d03301qo6m.html>
-
-### 深度解读周杰伦无与伦比演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7811144604_m1d1949b9c033021562.html>
-
-### 周杰伦湘女多情MV被吐槽太敷衍
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_1798653494_m6b35463603301dr9v.html>
-
-### 这下演唱会，我再也不是举着手机瞎拍了 周董演唱会你怎么看 周杰伦北京演唱会
-
-- 艺人/关键词: **周杰伦**
-- 来源: `sina`
-- 链接: <https://k.sina.com.cn/article_7879923942_m1d5ae18e603302h5dv.html>
-
-### 不止特朗普！美国多位官员曾持有英伟达股票 一文盘点
+### 东西问｜普京与特朗普都爱中国菜：美食，是亚太相知最好的语言
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-27 04:41
-- 链接: <https://news.google.com/rss/articles/CBMiigFBVV95cUxQR25LSzBhb29aUk8zLUdETXhpWTFnYUV4cl9aWTlZTi1EQVpaSU5jMmJYRkFBWmZtMmhQbXR6V08zTUdReWhyTDBJRlduZU9KWFFmZVBfS2xlV0FORTVjb2FWS2Z4VURPdmVac2dOYWk2aTZES0FWRUNzMFpBMW5WWUMzczNMVnp6b3c?oc=5>
+- 场馆: 光明网
+- 时间: 2026-11-28 01:35
+- 链接: <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JOTdmQ1ozd2NveVhFa3FNWUJJLThlZXRiaVlReXB3QnFSMHRUNWZWSlgwRm5tcnRXTkxYVjBmdDFKbVhsTFJCZ0UtQ2d0N3Z5d0ZpaV9kQ2E2RDhfZTY5dVF3?oc=5>
 
-### 特朗普承认幕后出手保黄仁勋：我为世界做了一件大好事，市场对此感觉非常好
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪新闻_手机新浪网
-- 时间: 2026-11-27 04:35
-- 链接: <https://news.google.com/rss/articles/CBMickFVX3lxTE5CMEtvSlhaMVNPYnlfWEwwMFQ5RmxWTExFUlh6NThkZTJFTEVXT1NJOWhMTG9yUkNPZnlKSTRXeHI3YVY4ZF9yZlNySlAyX0pYVVFnczA0ZDIzX2tTY0dGUWhjRnVNbDBQV1Jmb2d1X2h4QQ?oc=5>
-
-### 特朗普称尚未发现伊朗镐山有实质性活动
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新华网
-- 时间: 2026-11-27 02:51
-- 链接: <https://news.google.com/rss/articles/CBMif0FVX3lxTE5jc0Y4Q1ZQNEFfZEVZLTdxSHdFZS1GYl9oZ0FOcVZMbVVmelNZdlhMZi00WGVYYTAzelQzQkhQQ05fUFliYVNmSXIxdzdHVnBaZEhPSXRoN2dXdk83QWFoRnpWQ1FVT053dTRGa2JMY3BoXzlsM3UxN1FGQW1TM1E?oc=5>
-
-### 11月27日外盘头条：特朗普指政府蓄意低报经济增长 德科斯将出任欧洲央行行长 科威特称伊朗袭击其重要设施
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-27 02:03
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxQMlRIWEJheXZ0Z1F1T0EtcW1yTk5rS0NmNWsxdFpYRFlhR3FUTGFtbTB3QndhbUZwRVRNYzNKNElrNGg0SW0yWWlubXlDdi1CTWMtQkFyT25BMktLVzBsaHV4TWxuZXBuWTdlRWp4MXIyZkxfSUhuZjlsR2tpR2J5cUVfa2ZIYTQ?oc=5>
-
-### 特朗普总统：何时结束与伊朗的冲突将由他决定
+### VOA今日焦点 (2026年11月27日) 特朗普总统：与习近平的会晤非常棒，两人关系融洽
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 美国之音
-- 时间: 2026-11-27 17:21
-- 链接: <https://news.google.com/rss/articles/CBMitgFBVV95cUxNOGkwYzhTeXZ5b296SG5VaW5PT2VIVTNOLTdOYUFFSERpYkxpRlMzeXY3cUMxSmw4aWtSclhkNDdVWTlZb3dvQ2FBOTBWMDlHWWRSYTItekIwMUdtVk9QT0dTRTA0dUFKekNLeFdWLVRJbHZ1Z1FJeWJHSE9NSGpDLXhXS2RQTmdkYksxM3lDSE80THp3UG53YTU1di1xVUI2Zmhhdl9DTnRHU1UwdXNxaUtBV2U0d9IBuAFBVV95cUxPVUZVYzc5bm13TlhUVl9GUW54MDFwYWt5cFdaTzg0MmlwUExUNmdMaHJhcmhjR21idzNTbXR2OWxWN3E3Sm9PVU10TTBCdHdKQUJFVW43Y2V3aGQ2RlZsS0ZlUkFVa0MtUm1DUEdvU3NKQTlhWTM5UW5YTXB2MEU5TVhFZ21rMXgxaXo5ZUY1YkVlVndGaXEzb3U0MzFXbnNGM2Z3OG1jQ1M1dVhITmxJOHhRRTB5dWNy?oc=5>
+- 时间: 2026-11-27 22:25
+- 链接: <https://news.google.com/rss/articles/CBMia0FVX3lxTE1HckNVWmlPNDZWZG53by1XRWpEcS1WZk5sS1JjemlnTUxEUmJnTk0wZWRtazl0akV1MEwtZU9MaTJnaVU0YU1paW1mRUsyUmxHR0FGdkM5OFRYYTFHcnFHUkpwd09DUEtsdHBN0gFuQVVfeXFMTk1JU3RVdDdLdHdzbjhOdXZlYmRMZGJVV1d3Y2xKZl9pdlUyYXFYazhSbktqeGZpYlhSOUx2SklUS2FnVmFMbmdwMGRfaDNaSDcta3ZLeU52ckVpOV92YUVvZlh3SksxZ0lpNUxBbHc?oc=5>
+
+### 美农民忧特朗普关税措施将使出口受阻及成本上升
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: RFI
+- 时间: 2026-11-27 22:02
+- 链接: <https://news.google.com/rss/articles/CBMi5wJBVV95cUxPd3dGdXYxd2E2dUpIemRFMGNJSHpjNUlNXzZOTWRBM3h0Nmp3XzRtYWhjVmFpN1lWQ1dYcm9mMjh3QjJDS2ZoMml5VzVHSkxDT3hNckxsS3ZyUmhkdmZxTS0tcDd5Y3d4TE15SFo3LVhkZzNRN2V0YlN3RWR1SVF4VGhKWnlUbnZ6NmZvaXViV1lEZTM5RW0yYlhjOEUzREtRU2VXLTl5MjlOWHp2bVM4bDZ3RmJNZ1g0V25oRDlvZG8yclM5bHVMTTFzT2U2WDFQcUZrRldwOWhNU3hmYjQ5dzI1SWZxeGtBVHlJR0d1bzBjMzVwYm03MlZlYVFES2ZKV0FUNkJaU0hmQUpjWXdTMExUWDZVd3p4cUg0VVVHR3BHU3J0a0gwMHhBMkNHRGxiU1hKaEdQMDhxUThmRHQyUHRTTlNuX1NnNmF4TUNIN1N5ai1lVGhVYVp2Y1NPNGJtaUFtSll6bw?oc=5>
+
+### 日媒大骂特朗普政府：美方做法令人难以理解，弊端十分突出
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: 凤凰网
+- 时间: 2026-11-27 16:04
+- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NS2VqaG1DeTJ1eWZEWUFEQTNwV0cycDMtSTgyNVdJTm85RnRuT19GLS1rUW9SLVpnaHpVRU10cEJEdFdKakMyZDh0SnY?oc=5>
+
+### 美国拟对14个经济体加征301关税，中国商务部称坚决反对，而其他贸易伙伴与中国的摩擦可能增多
+
+- 艺人/关键词: **特朗普**
+- 来源: `googlenews`
+- 场馆: DW.com
+- 时间: 2026-11-27 06:02
+- 链接: <https://news.google.com/rss/articles/CBMisgNBVV95cUxPeWhaWjdTdHFpQTg1MFVpaTBDQTMwa2R4RmVsT0hWZnFzREJlbEhOOHRtcjV2WGlkYkI5WG8tRWJjMHNsRVJQXzQ4S0pYUy04Q0pTdkJjX21wMC1iQndTMmdURVBPZDZsbWYwczB0aVdtT1Y5OEo2RTVoZ1dzN2RBdnhGRXJqZ0VZcVVPT0RxRjBRcHhndDAwN2RTZjRCWmI2am5xeVRMcWd4YmVlR3dCQ2dyUnAzOTN0b3RucVRRTzhCMFVXUHBsbmlvQ1VoYWp2aS1uZGRIUVVhZmZoS1RFMmRMYWJIbU1uczd0SmxwREFSVmIwd25uUUZ5b0FDYldIOGhjc0I2MDlkTjR6Zlpab3lQUE1pRDBtVXFUZnRFazBxRTE0elh3YkxkZGs5SnNRSHBmUmhBNE5fUXZNeDJwVENQTm9YTVlhSDBVT3BNbG5xZmpYYkdaMWtsdDNTTk9OUjFMeklCbldBcVNyX05tQk50SlA4amdWbnVBcUpEbWFFdDRkZ2JrYlB2aUdZNjdjSlZJUnVYT1IxN3JNMXNERDY4cGF1TkgtRzlFdVRhMEJrQdIBsgNBVV95cUxQUjJ5Rko1T3VaN3dzRmJZenRxbk9EamRwdUFmbVdzbUllUVJraXB4TWF3eGk4ZjJiaDczTS0xMnFqNE9EVEN2bDFuRm5PLVNEaml6Nl9TSGxzb2w4WFZmZlVYWVJaYS14czY3YVlQZS1oNUlGWTV2eEJLTDYwQXpkWE1iZlVDUHB6VllCN1VDYjNhbTQzQk9xT1M4a3hIN1A4VnlBZkRsVlBOdnVvZXQ5LUFubUV1NWFzbGdoY2piRHlLcUZUdWFBSzVjbGxkMGkzRnc3bDU2SEgybEVPa0VTcFNBN1F4ZHNVUE5aaXlLYkl0X19wNEJBOGdtOG1sSW9pR05IdXVqN0ptRkh0OGZwTmFEdmlmN3duSW83ZndwVkczRU15WEdHUTdSQ05CLVV4Yl9WZ3R5NnNwbFVYTkQ5dmF2OHpQMmZKVFdjOXo0SUJ6SFNDbUtDcWUyYXhTMDlQU04xUklaYVkxVzR1T29KOXVNd0RJd1Y5SXd6dVV3U2wyd3NZcXN6aTVJV01SNS1Hb0NtaFVocDI5cGY5Q1NKVjZ5dVRrUWhrYVE1VkhyeG9mQQ?oc=5>
 
 ### 三季度GDP数据大幅上修后，特朗普质疑数据操弄中期选举并要求调查
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
 - 场馆: 新浪财经
-- 时间: 2026-11-26 22:02
-- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxObVFwWWpfVkNqYlBLWE1CU2FSazVsUVpJREcySFZCd2xvQzJJYTlyQm1tLU1fZ3kxNmFzMzNGbUpsbHZvbkV6WWlJZ3laamhCU0h3dU0tTDNBTDVoVUlyc1hSNjVZZDVoMlpiZkJOMG9ZZ21uNjVtdll6cnBzRUhRSXpCY2h3VEU?oc=5>
+- 时间: 2026-11-27 18:45
+- 链接: <https://news.google.com/rss/articles/CBMihwFBVV95cUxNczhWM0dwdV93NWJrMTVIQl9za0RNTDVXVkRxZHBjcWZXR0lDakNiWVNWbDNYMTdtbFJ4ZEh3Rl9jeVhGWTd2UU5YQnZhSjlYYW5ISHY5YzJiWC1nemJUcFIwa2QxdmJlWFpmTVVabF96T0pGSjk2UzZzRlh0R2ZwTmtiM2hfWjQ?oc=5>
 
-### 特朗普指政府蓄意低报经济增长 要求展开调查
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经_金融信息服务商
-- 时间: 2026-11-27 04:09
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTFBVSmdPQjZRWHFXMEZIWFQwLURMUlJmd1UzZDRCTVAzellocUwzOFY2eW8zb01FYXU5UXlra2RGTUpxcGZBMlZ0U3VJU0lXSmhXUVhWcFV5em9hV2xkd0hUbnJQRTNKdHNyV3JGYlJQY1ZTQ1JoUjQxdA?oc=5>
-
-### 特朗普入住深圳酒店后，酒店推出特朗普同款汉堡套餐，包含健怡可乐、汉堡、薯条，36888元同款总统套房未来一周已订满
+### 特朗普入住深圳酒店后，留下了这样一个礼物......
 
 - 艺人/关键词: **特朗普**
 - 来源: `googlenews`
-- 场馆: 新浪新闻
-- 时间: 2026-11-27 01:50
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE92Ulo5cmFuaGVhV1FwVlZfRVZqazBvQXVDbjdoMzZIdHNFNmowdkZmOEhuOUNVUzd5SzduRG9MXy1QZGlHVVhvRW9oMWUyTjN5cTI1NWptYlpJVWZpc0xnWVkwNFBEaG5FWFhybFpvYmpFcm45OHRWRw?oc=5>
+- 场馆: 手机新浪网
+- 时间: 2026-11-27 11:28
+- 链接: <https://news.google.com/rss/articles/CBMicEFVX3lxTE0tZ21OT3ZObU5iamU5ck93cEw0UUxLUzgtSVctNDhsVHV0cC1vSmtrRnZURFFiNFVXNXl2OTk5WEhmVjNvelZvWXpVbFFBQWMtdVpWdTlPQ0lTM2NmZ0M1S1RBLXlJOU5DbC1wX3ZfVmE?oc=5>
 
-### 特朗普：美国不需要中东的石油，算上委内瑞拉，美国拥有全球一半石油；中东驻军和行动是为了保护以色列和中东地区
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: ThePaper.cn
-- 时间: 2026-11-27 15:33
-- 链接: <https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQb0R0Q1dOZXJ4b2Q5eFhoMkJBZ25nU19LRFZTX3RiMUFOeHBnZVowZjBMQ2lwSXVwcjBva25XRFF4RW1oU0ktbEpORUJTMGh0cU4xNUQ0a3hVRHFwQVpvSw?oc=5>
-
-### 泽连斯基：特朗普为啥喊普京“朋友”？这就像二战期间喊希特勒“朋友”，他不可能是朋友
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 凤凰网
-- 时间: 2026-11-27 14:54
-- 链接: <https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtcVV6bEhrN0M5RGlpbjZBUXQxcE9HeFMzb2JId2hmRXBFUlFscHI5LUlnR1VxUDRJN0MtVUprZjVaWnFMT3dPRENtYm4?oc=5>
-
-### 特朗普：如果普京想来G20峰会，当然可以来
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: Sohu
-- 时间: 2026-11-27 13:22
-- 链接: <https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmd2cmpNWVMzTkdGQ3pJRDI2b09Gc0xFRFRFeXJPa01nMDBJSDA0cm0yajFPN2kyNjNIMHNUdFFXMldfQThPcmxaQVRIN3puZnd0b3l3ZTR5QlVaMUQ2eW5iblVJQXh0R3ZMWVJKcUhKdExkZHlBSEhobXJESC12MExDcDB5ZGptS0ww?oc=5>
-
-### 特朗普称在与普京会谈中敦促其尽快与乌达成协议
-
-- 艺人/关键词: **特朗普**
-- 来源: `googlenews`
-- 场馆: 新浪财经
-- 时间: 2026-11-27 11:56
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE5WODdkaEZZV1dqaDZBUExhNkgxbUNVcTc4RVBQZ1NFdzlJQVJLZGlDSGZWQ0RuLVhHRzRVT0FoTU1sbklWRXJtY1ppcjdlZnh1Y245cnV0b3FMdGJBaFB2VjNqa3VOa3ZUdmxpSnVxQ3Bad0J4T2FSUg?oc=5>
-
-### 特朗普与沙特达成的核协议面临参议院考验，民主党人对保障措施提出质疑。
+### 四方安全对话是一股良善力量
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: Al-Monitor
-- 时间: 2026-11-27 14:42
-- 链接: <https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tcWZGeXlhQWdKYWdsWVRqZGFKSm9lTVlPZzFjNC1ZWDNJV1dERE5tVXhZd1ZFemdBRVo4UDdxZ3Z2eTdpSEg3RG9DSzVRRXRBcXBTN1h0RE8wNDd4czhRVGltSlBqUQ?oc=5>
+- 场馆: VOA - Voice of America English News
+- 时间: 2026-11-27 23:51
+- 链接: <https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnR2S1NRYXlLelJWa2d4eEk5Z2tUSHY1WWFMazU1NDM1SlFIY2RsUFV0WmUxUEljYlBmSTctMERma2NNbllVRUJiUktwdnIyYVppMGp1Qi1aUFhIbDZocE4yZUx3LVVXWk9UTGd5bkVfakRzS3ZaRk9jRnYtVnNBekNfQ2tFdUlETHQ5WF80bWVIa1hWcFpsVUJEMC1BSXVUaTI1LdIBpwFBVV95cUxOd0lvYl9QTEo0VXBhb0UzTGliY0V4bjItTVZfRlZqVEh3dTRwek4xR1p4bVV6bU9wRy1uV1lwOGZaMUtpR0JvTjhnOTBSUGRNeURhYWZYVTktSEU3dTVHMXNIbEp6WGF6SXVFRGxsUV9LSGp3U25oajktV0l2V1A3UVU1ejd5bS1Cb2JKWjlNRzBUeE1ManVQLXNSY2lWM1BESXVoTFJfWQ?oc=5>
 
-### $TRUMP：现在入场失误可能代价高昂| Сытая Свинья发布于币安广场
-
-- 艺人/关键词: **Trump**
-- 来源: `googlenews`
-- 场馆: Binance
-- 时间: 2026-11-27 09:53
-- 链接: <https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oODRRdUtNYVdaTklqMGNEbEEwRm9HSFFrSUNOOGNiNndGNzZzTDhxY05UazhyRnFtV1hIZ1NmVkNKd3laUko3RC1rUms5QkkwMXprb3VIWk80bkp0dEJRSWZHcVdNaTVP?oc=5>
-
-### 特朗普加密货币暴跌近99%！第三次举办富豪晚宴 家族却已赚进23亿美元
+### 特朗普称已敦促普京停止在欧洲各地的军事侵略
 
 - 艺人/关键词: **Trump**
 - 来源: `googlenews`
-- 场馆: FX168财经
-- 时间: 2026-11-27 08:47
-- 链接: <https://news.google.com/rss/articles/CBMieEFVX3lxTE1DTzV1ZWFxWkNpWFRwZk9ONkRNY0JYVDYwY2Rwc0pjM1ZKMjdsYjBvb3RKZHdEZ0hoa3p5WUNQTm1Qb0RFVy1UdnJZbnJUTDRwZnVxNWIzbDQwLXlsVVMxN09MMWFDeFdzcVkxVkFKYk9MazJTUFFMMw?oc=5>
+- 场馆: RFI
+- 时间: 2026-11-27 21:16
+- 链接: <https://news.google.com/rss/articles/CBMi2wJBVV95cUxNdXZQM1JTaFRUWjFqYVkzblh4M3JldDg4LWZKZ2NvSmtheDFlWkdrQkMyb0ljbjFNX3RRVFpqRUtFOU5LYWIteHZnRW9IYzE0YmRiUWNHN25SZWxCMUJaWVEydHBCZDRldlBGOGY3QnI5eFFwR0YyLWJDd3A0azVpQlk4Z2hTaDhUWDR0b0RoYjk4dVVkSEtpS1FnSWpMZENyQl9iR3d2dzc2ejVQSW9MTEtTRU9EekRKcWFOcWhxLWpVTVlzdzJyRlNqMFNPUE9yaDhGampUSlNrWGhkbVNYVzdvRzVjM2hDUFpnWG02NHBqMVg2VHBnalg4TmdkN2JtcHpYSTV6YlJocEJadUgyTVRNS1NyYk5rSk9NNHk0X2Q0RnhXekthb21GS25yZFdqYlY1U2c3MWdON2pVdE04U1N4QTNzLVlzdVRzRXA3cDlwd3pOMXFMWGlTdw?oc=5>
+
+### 特朗普认为普京与泽连斯基之间的仇恨是实现和平的最大障碍
+
+- 艺人/关键词: **Trump**
+- 来源: `googlenews`
+- 场馆: 美国之音
+- 时间: 2026-11-27 18:51
+- 链接: <https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3dybEVqS2NUNUgtX1hhUWFNRFE1RHZPZ3BfTGJ1Yk1tOXRMNG9nTDN2cGQySjFsZ2x3SEJKUndjU05RdlJCLV9YQ1F0aU1jLXhjYXV4STZoalZtTnFSNjNja3NvY2FGMk1FRlVqUGlzWXp2aWJfS1ZUV0JpcE5YNEtEd0R6R1JZWVplZUJsS19KLTRjU0VnY1Z4WDl0SVRtbzdtbkM0bDFxSTVqQ1I0eHBDSHJZdU16OGdiU0swZFRMS1VrT191QlVpMNIBzgFBVV95cUxQOUF5QllaNTNPZFdvTVRhekhlUVBKWVp3MXl5aEcxSjBNX3hndWduWUd0VktqWGIzTmtEMDJyNWMyRU95Tnh3UWJ5UWJYa2xBMTN4ZGhLQ0hIdXpESHBWM1JKZlhvam9nR1lobmU2eEJkcnVOQlJIRFpnRzR5dDF6aURiM1NTODh3MWdZWmVpNkNRdUJKckIxNzRZdk9QWWdIdmV3NFhfdmsyT1dfdG1nbXFxblBLd1Y4QlI2WEE0bTdhRWhkODE2dmZDNWJxUQ?oc=5>
 
 
 ---
 
 ## 历史发现
+
+### 2026-11-28 01:45  (11 条)
+
+- **王一博** | 今年新歌啥时候来 王一博啥时候跳舞 <https://k.sina.com.cn/article_6060658738_m1693e5032033019sgq.html>
+- **特朗普** | 东西问｜普京与特朗普都爱中国菜：美食，是亚太相知最好的语言 <https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JOTdmQ1ozd2NveVhFa3FNWUJJLThlZXRiaVlReXB3QnFSMHRUNWZWSlgwRm5tcnRXTkxYVjBmdDFKbVhsTFJCZ0UtQ2d0N3Z5d0ZpaV9kQ2E2RDhfZTY5dVF3?oc=5>
+- **特朗普** | VOA今日焦点 (2026年11月27日) 特朗普总统：与习近平的会晤非常棒，两人关系融洽 <https://news.google.com/rss/articles/CBMia0FVX3lxTE1HckNVWmlPNDZWZG53by1XRWpEcS1WZk5sS1JjemlnTUxEUmJnTk0wZWRtazl0akV1MEwtZU9MaTJnaVU0YU1paW1mRUsyUmxHR0FGdkM5OFRYYTFHcnFHUkpwd09DUEtsdHBN0gFuQVVfeXFMTk1JU3RVdDdLdHdzbjhOdXZlYmRMZGJVV1d3Y2xKZl9pdlUyYXFYazhSbktqeGZpYlhSOUx2SklUS2FnVmFMbmdwMGRfaDNaSDcta3ZLeU52ckVpOV92YUVvZlh3SksxZ0lpNUxBbHc?oc=5>
+- **特朗普** | 美农民忧特朗普关税措施将使出口受阻及成本上升 <https://news.google.com/rss/articles/CBMi5wJBVV95cUxPd3dGdXYxd2E2dUpIemRFMGNJSHpjNUlNXzZOTWRBM3h0Nmp3XzRtYWhjVmFpN1lWQ1dYcm9mMjh3QjJDS2ZoMml5VzVHSkxDT3hNckxsS3ZyUmhkdmZxTS0tcDd5Y3d4TE15SFo3LVhkZzNRN2V0YlN3RWR1SVF4VGhKWnlUbnZ6NmZvaXViV1lEZTM5RW0yYlhjOEUzREtRU2VXLTl5MjlOWHp2bVM4bDZ3RmJNZ1g0V25oRDlvZG8yclM5bHVMTTFzT2U2WDFQcUZrRldwOWhNU3hmYjQ5dzI1SWZxeGtBVHlJR0d1bzBjMzVwYm03MlZlYVFES2ZKV0FUNkJaU0hmQUpjWXdTMExUWDZVd3p4cUg0VVVHR3BHU3J0a0gwMHhBMkNHRGxiU1hKaEdQMDhxUThmRHQyUHRTTlNuX1NnNmF4TUNIN1N5ai1lVGhVYVp2Y1NPNGJtaUFtSll6bw?oc=5>
+- **特朗普** | 日媒大骂特朗普政府：美方做法令人难以理解，弊端十分突出 <https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NS2VqaG1DeTJ1eWZEWUFEQTNwV0cycDMtSTgyNVdJTm85RnRuT19GLS1rUW9SLVpnaHpVRU10cEJEdFdKakMyZDh0SnY?oc=5>
+- **特朗普** | 美国拟对14个经济体加征301关税，中国商务部称坚决反对，而其他贸易伙伴与中国的摩擦可能增多 <https://news.google.com/rss/articles/CBMisgNBVV95cUxPeWhaWjdTdHFpQTg1MFVpaTBDQTMwa2R4RmVsT0hWZnFzREJlbEhOOHRtcjV2WGlkYkI5WG8tRWJjMHNsRVJQXzQ4S0pYUy04Q0pTdkJjX21wMC1iQndTMmdURVBPZDZsbWYwczB0aVdtT1Y5OEo2RTVoZ1dzN2RBdnhGRXJqZ0VZcVVPT0RxRjBRcHhndDAwN2RTZjRCWmI2am5xeVRMcWd4YmVlR3dCQ2dyUnAzOTN0b3RucVRRTzhCMFVXUHBsbmlvQ1VoYWp2aS1uZGRIUVVhZmZoS1RFMmRMYWJIbU1uczd0SmxwREFSVmIwd25uUUZ5b0FDYldIOGhjc0I2MDlkTjR6Zlpab3lQUE1pRDBtVXFUZnRFazBxRTE0elh3YkxkZGs5SnNRSHBmUmhBNE5fUXZNeDJwVENQTm9YTVlhSDBVT3BNbG5xZmpYYkdaMWtsdDNTTk9OUjFMeklCbldBcVNyX05tQk50SlA4amdWbnVBcUpEbWFFdDRkZ2JrYlB2aUdZNjdjSlZJUnVYT1IxN3JNMXNERDY4cGF1TkgtRzlFdVRhMEJrQdIBsgNBVV95cUxQUjJ5Rko1T3VaN3dzRmJZenRxbk9EamRwdUFmbVdzbUllUVJraXB4TWF3eGk4ZjJiaDczTS0xMnFqNE9EVEN2bDFuRm5PLVNEaml6Nl9TSGxzb2w4WFZmZlVYWVJaYS14czY3YVlQZS1oNUlGWTV2eEJLTDYwQXpkWE1iZlVDUHB6VllCN1VDYjNhbTQzQk9xT1M4a3hIN1A4VnlBZkRsVlBOdnVvZXQ5LUFubUV1NWFzbGdoY2piRHlLcUZUdWFBSzVjbGxkMGkzRnc3bDU2SEgybEVPa0VTcFNBN1F4ZHNVUE5aaXlLYkl0X19wNEJBOGdtOG1sSW9pR05IdXVqN0ptRkh0OGZwTmFEdmlmN3duSW83ZndwVkczRU15WEdHUTdSQ05CLVV4Yl9WZ3R5NnNwbFVYTkQ5dmF2OHpQMmZKVFdjOXo0SUJ6SFNDbUtDcWUyYXhTMDlQU04xUklaYVkxVzR1T29KOXVNd0RJd1Y5SXd6dVV3U2wyd3NZcXN6aTVJV01SNS1Hb0NtaFVocDI5cGY5Q1NKVjZ5dVRrUWhrYVE1VkhyeG9mQQ?oc=5>
+- **特朗普** | 三季度GDP数据大幅上修后，特朗普质疑数据操弄中期选举并要求调查 <https://news.google.com/rss/articles/CBMihwFBVV95cUxNczhWM0dwdV93NWJrMTVIQl9za0RNTDVXVkRxZHBjcWZXR0lDakNiWVNWbDNYMTdtbFJ4ZEh3Rl9jeVhGWTd2UU5YQnZhSjlYYW5ISHY5YzJiWC1nemJUcFIwa2QxdmJlWFpmTVVabF96T0pGSjk2UzZzRlh0R2ZwTmtiM2hfWjQ?oc=5>
+- **特朗普** | 特朗普入住深圳酒店后，留下了这样一个礼物...... <https://news.google.com/rss/articles/CBMicEFVX3lxTE0tZ21OT3ZObU5iamU5ck93cEw0UUxLUzgtSVctNDhsVHV0cC1vSmtrRnZURFFiNFVXNXl2OTk5WEhmVjNvelZvWXpVbFFBQWMtdVpWdTlPQ0lTM2NmZ0M1S1RBLXlJOU5DbC1wX3ZfVmE?oc=5>
+- **Trump** | 四方安全对话是一股良善力量 <https://news.google.com/rss/articles/CBMipAFBVV95cUxQYnR2S1NRYXlLelJWa2d4eEk5Z2tUSHY1WWFMazU1NDM1SlFIY2RsUFV0WmUxUEljYlBmSTctMERma2NNbllVRUJiUktwdnIyYVppMGp1Qi1aUFhIbDZocE4yZUx3LVVXWk9UTGd5bkVfakRzS3ZaRk9jRnYtVnNBekNfQ2tFdUlETHQ5WF80bWVIa1hWcFpsVUJEMC1BSXVUaTI1LdIBpwFBVV95cUxOd0lvYl9QTEo0VXBhb0UzTGliY0V4bjItTVZfRlZqVEh3dTRwek4xR1p4bVV6bU9wRy1uV1lwOGZaMUtpR0JvTjhnOTBSUGRNeURhYWZYVTktSEU3dTVHMXNIbEp6WGF6SXVFRGxsUV9LSGp3U25oajktV0l2V1A3UVU1ejd5bS1Cb2JKWjlNRzBUeE1ManVQLXNSY2lWM1BESXVoTFJfWQ?oc=5>
+- **Trump** | 特朗普称已敦促普京停止在欧洲各地的军事侵略 <https://news.google.com/rss/articles/CBMi2wJBVV95cUxNdXZQM1JTaFRUWjFqYVkzblh4M3JldDg4LWZKZ2NvSmtheDFlWkdrQkMyb0ljbjFNX3RRVFpqRUtFOU5LYWIteHZnRW9IYzE0YmRiUWNHN25SZWxCMUJaWVEydHBCZDRldlBGOGY3QnI5eFFwR0YyLWJDd3A0azVpQlk4Z2hTaDhUWDR0b0RoYjk4dVVkSEtpS1FnSWpMZENyQl9iR3d2dzc2ejVQSW9MTEtTRU9EekRKcWFOcWhxLWpVTVlzdzJyRlNqMFNPUE9yaDhGampUSlNrWGhkbVNYVzdvRzVjM2hDUFpnWG02NHBqMVg2VHBnalg4TmdkN2JtcHpYSTV6YlJocEJadUgyTVRNS1NyYk5rSk9NNHk0X2Q0RnhXekthb21GS25yZFdqYlY1U2c3MWdON2pVdE04U1N4QTNzLVlzdVRzRXA3cDlwd3pOMXFMWGlTdw?oc=5>
+- **Trump** | 特朗普认为普京与泽连斯基之间的仇恨是实现和平的最大障碍 <https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3dybEVqS2NUNUgtX1hhUWFNRFE1RHZPZ3BfTGJ1Yk1tOXRMNG9nTDN2cGQySjFsZ2x3SEJKUndjU05RdlJCLV9YQ1F0aU1jLXhjYXV4STZoalZtTnFSNjNja3NvY2FGMk1FRlVqUGlzWXp2aWJfS1ZUV0JpcE5YNEtEd0R6R1JZWVplZUJsS19KLTRjU0VnY1Z4WDl0SVRtbzdtbkM0bDFxSTVqQ1I0eHBDSHJZdU16OGdiU0swZFRMS1VrT191QlVpMNIBzgFBVV95cUxQOUF5QllaNTNPZFdvTVRhekhlUVBKWVp3MXl5aEcxSjBNX3hndWduWUd0VktqWGIzTmtEMDJyNWMyRU95Tnh3UWJ5UWJYa2xBMTN4ZGhLQ0hIdXpESHBWM1JKZlhvam9nR1lobmU2eEJkcnVOQlJIRFpnRzR5dDF6aURiM1NTODh3MWdZWmVpNkNRdUJKckIxNzRZdk9QWWdIdmV3NFhfdmsyT1dfdG1nbXFxblBLd1Y4QlI2WEE0bTdhRWhkODE2dmZDNWJxUQ?oc=5>
 
 ### 2026-11-27 18:37  (22 条)
 
